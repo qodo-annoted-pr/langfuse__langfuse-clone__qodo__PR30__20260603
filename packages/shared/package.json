@@ -133,7 +133,7 @@
     "undici": "^7.24.6",
     "uuid": "^14.0.0",
     "winston": "^3.15.0",
-    "zod": "^4.3.6"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
